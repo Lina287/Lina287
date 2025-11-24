@@ -22,6 +22,7 @@
 
 ## 🌸 About Me
 
+
 ```javascript
 const lina = {
   pronouns: "she" | "her",
@@ -36,9 +37,11 @@ const lina = {
   funFact: "I love turning coffee into code! ☕→💻",
   currentGoal: "Land my first tech internship in 2024"
 };
+```
+
+##💫 Tech Stack & Skills
 
 
-💫 Tech Stack & Skills
 <div align="center">
 💻 Languages
 https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
@@ -69,7 +72,9 @@ https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&log
 https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white
 
 </div>
-📊 GitHub Analytics
+
+
+##📊 GitHub Analytics
 <div align="center"><!-- Top Languages --><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lina287&layout=compact&theme=radical&border_radius=10&hide_border=true&langs_count=8" /><!-- Activity Graph -->
 https://github-readme-activity-graph.vercel.app/graph?username=Lina287&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=ff69b4&line=ff69b4&point=ff69b4
 
@@ -78,6 +83,8 @@ https://github-readme-activity-graph.vercel.app/graph?username=Lina287&theme=rea
 https://github-profile-trophy.vercel.app/?username=Lina287&theme=radical&row=2&column=4&no-frame=true&margin-w=15&margin-h=15
 
 </div>
+
+
 🎯 Current Projects & Goals
 🔥 Featured Projects
 Project	Description	Tech Stack
@@ -86,7 +93,7 @@ TaskFlow App	Beautiful task management application	MERN Stack, Tailwind CSS
 WeatherWise	Real-time weather dashboard	JavaScript, APIs, Chart.js
 CodeSnippets	Share and discover code snippets	Node.js, MongoDB, Express
 🌱 Learning Goals 2024
-text
+
 🎯 Career Goals:
 ──────────────────────────────
 ✓ Build 10+ portfolio projects
@@ -135,7 +142,9 @@ https://readme-jokes.vercel.app/api?theme=radical&borderColor=ff69b4&qColor=ff69
 👀 Profile Views
 https://komarev.com/ghpvc/?username=Lina287&color=ff69b4&style=for-the-badge&label=Visitors
 
-<!-- GitHub Stats Footer --><table> <tr> <td align="center"> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100" /> <br /> <sub><b>Keep Coding</b></sub> </td> <td align="center"> <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="100" /> <br /> <sub><b>Stay Creative</b></sub> </td> <td align="center"> <img src="https://media.giphy.com/media/l0HU7JI1m1eEwz7K8/giphy.gif" width="100" /> <br /> <sub><b>Never Stop Learning</b></sub> </td> </tr> </table>
+<!-- GitHub Stats Footer -->
+<table> <tr> <td align="center"> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100" /> <br /> <sub><b>Keep Coding</b></sub> </td> <td align="center"> <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="100" /> <br /> <sub><b>Stay Creative</b></sub> </td> <td align="center"> <img src="https://media.giphy.com/media/l0HU7JI1m1eEwz7K8/giphy.gif" width="100" /> <br /> <sub><b>Never Stop Learning</b></sub> </td> </tr> </table>
+
 ⭐ From Lina287
 
 <!-- Waving Footer -->
