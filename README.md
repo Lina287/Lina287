@@ -6,24 +6,13 @@
 <!-- Waving Banner -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lina's+World&fontSize=60&fontAlignY=35&animation=twinkling&desc=Welcome+to+my+GitHub!&descAlignY=55)
 
-<!-- GitHub Stats -->
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Lina287&show_icons=true&theme=radical&border_radius=10&hide_border=true&include_all_commits=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lina287&theme=radical&border_radius=10&hide_border=true" />
-    </td>
-  </tr>
-</table>
 
 </div>
 
 
 
 
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG03ZGU4cW51cWVtNTA5eG5pcmV2NnV5dTYzajRpcHRicjk0NXp2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG03ZGU4cW51cWVtNTA5eG5pcmV2NnV5dTYzajRpcHRicjk0NXp2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif">
 
 
 # 💫 About Me:
@@ -77,9 +66,7 @@ Email: linanhayade@gmail.com
 
 
 ## 📊 GitHub Stats:
-<div class='container' align="center">
-  <img style="height: auto; width: 70%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=Lina287&theme=tokyonight&hide_border=true" />
-</div>
+
 <br>
 <div class='container'>
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Lina287&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
@@ -91,9 +78,9 @@ Email: linanhayade@gmail.com
 
 
 
-## ✍️ Random Quote
+## ✍️ Random Dev Quote
 <div align="center">
-<img class="img" src="https://github.com/Lina287/Lina287/main/quote.jpg" />
+<img class="img" src="https://camo.githubusercontent.com/cb04df64b1261f28ca966f6d1fd92172522711eca0513c154f26a604a79075c1/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c" />
 </div>
 
 ---
