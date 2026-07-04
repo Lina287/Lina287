@@ -16,7 +16,7 @@
 
 
 # 💫 About Me:
-🔭 Computer Engineering student with hands-on freelance experience in building scalable, user-friendly applications.<br>🌱 Skilled in C++, Advanced Java, and Full-Stack Web Development, with a growing interest in Cloud Computing & AI. Currently expanding expertise in Backend Development using Java to create robust solutions.<br>💬 A collaborative and innovative developer eager to connect and work on meaningful projects that drive positive change.<br>🎶 Fun fact: I once fixed a critical bug in my code in a dream and woke up to implement the solution—it worked!
+🔭 Computer Engineering student with hands-on freelance experience in building scalable, user-friendly applications.<br>🌱 Skilled in Python and C++ with a growing interest in AI/ML. <br>💬 A collaborative and innovative developer eager to connect and work on meaningful projects that drive positive change.<br>🎶 Fun fact: I once fixed a critical bug in my code in a dream and woke up to implement the solution—it worked!
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/linanhayade) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lbn_08) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([www.linkedin.com/in/lina-nhayade-27173b269]) 
@@ -29,7 +29,7 @@ Email: linanhayade@gmail.com
 ## 💻 Tech Stack:
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <a href="https://www.python.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -50,12 +50,7 @@ Email: linanhayade@gmail.com
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
   </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
+ 
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
