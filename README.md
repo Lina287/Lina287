@@ -31,7 +31,7 @@ Email: linanhayade@gmail.com
 
  <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=py,r,c,cpp,sklearn,fastapi,postgres,mysql,js,html,css,bootstrap,tailwind,react,postman,git,azure,linux,bash,powershell,npm&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,sklearn,fastapi,postgres,mysql,js,html,css,bootstrap,tailwind,react,postman,git,azure,linux,bash,powershell,npm&perline=12)](https://skillicons.dev)
 
 </div>
 
